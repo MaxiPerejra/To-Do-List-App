@@ -1,6 +1,6 @@
-# To-Do-List-App (Node.js + MongoDB + PWA)
+# To-Do-List-App 
 
-Prosta aplikacja do zarządzania zadaniami, z backendem opartym **Node.js + Express + MongoDB** i frontendem działającym jako **PWA** 
+Prosta aplikacja do zarządzania zadaniami
 
 ---- 
 W trakcie pracy ... 
